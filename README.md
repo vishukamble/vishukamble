@@ -7,7 +7,6 @@ I specialize in Site Reliability Engineering and building open-source tools that
 
 ## 🏗️ Currently Building
 * **[BucketLens](https://github.com/vishukamble/bucketlens)** – A new tool for deep visibility and management of object storage (S3/Cloud).
-* **[Arise](https://vishukamble.info)** – Developing an emotional wellness and support app for iOS.
 
 ---
 
