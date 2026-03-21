@@ -6,6 +6,7 @@ I specialize in Site Reliability Engineering and building open-source tools that
 ---
 
 ## 🏗️ Currently Building
+* **[klarity](https://github.com/vishukamble/klarity)** – One command. Every cluster. Everything that's wrong. A read-only Kubernetes diagnostic CLI for multi-cluster environments.
 * **[BucketLens](https://github.com/vishukamble/bucketlens)** – A new tool for deep visibility and management of object storage (S3/Cloud).
 
 ---
